@@ -1,0 +1,1 @@
+effect give @s minecraft:weakness 2 0 true

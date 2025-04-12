@@ -1,0 +1,1 @@
+scoreboard objectives add sun_weakness_timer dummy
